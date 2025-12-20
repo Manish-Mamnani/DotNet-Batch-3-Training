@@ -1,0 +1,15 @@
+D:\Capgemini\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.exe
+D:\Capgemini\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.deps.json
+D:\Capgemini\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.runtimeconfig.json
+D:\Capgemini\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.dll
+D:\Capgemini\StudentManagementSystemApp\bin\Debug\net10.0\StudentManagementSystemApp.pdb
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.AssemblyInfoInputs.cache
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.AssemblyInfo.cs
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.csproj.CoreCompileInputs.cache
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.sourcelink.json
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.dll
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\refint\StudentManagementSystemApp.dll
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.pdb
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\StudentManagementSystemApp.genruntimeconfig.cache
+D:\Capgemini\StudentManagementSystemApp\obj\Debug\net10.0\ref\StudentManagementSystemApp.dll

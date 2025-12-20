@@ -1,0 +1,15 @@
+D:\Capgemini\Day3Console\bin\Debug\net8.0\Day3Console.exe
+D:\Capgemini\Day3Console\bin\Debug\net8.0\Day3Console.deps.json
+D:\Capgemini\Day3Console\bin\Debug\net8.0\Day3Console.runtimeconfig.json
+D:\Capgemini\Day3Console\bin\Debug\net8.0\Day3Console.dll
+D:\Capgemini\Day3Console\bin\Debug\net8.0\Day3Console.pdb
+D:\Capgemini\Day3Console\obj\Debug\net8.0\Day3Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Day3Console\obj\Debug\net8.0\Day3Console.AssemblyInfoInputs.cache
+D:\Capgemini\Day3Console\obj\Debug\net8.0\Day3Console.AssemblyInfo.cs
+D:\Capgemini\Day3Console\obj\Debug\net8.0\Day3Console.csproj.CoreCompileInputs.cache
+D:\Capgemini\Day3Console\obj\Debug\net8.0\Day3Console.sourcelink.json
+D:\Capgemini\Day3Console\obj\Debug\net8.0\Day3Console.dll
+D:\Capgemini\Day3Console\obj\Debug\net8.0\refint\Day3Console.dll
+D:\Capgemini\Day3Console\obj\Debug\net8.0\Day3Console.pdb
+D:\Capgemini\Day3Console\obj\Debug\net8.0\Day3Console.genruntimeconfig.cache
+D:\Capgemini\Day3Console\obj\Debug\net8.0\ref\Day3Console.dll

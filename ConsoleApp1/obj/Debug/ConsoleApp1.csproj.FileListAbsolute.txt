@@ -1,0 +1,8 @@
+D:\Capgemini\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Capgemini\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Capgemini\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Capgemini\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Capgemini\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Capgemini\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Capgemini\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Capgemini\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
