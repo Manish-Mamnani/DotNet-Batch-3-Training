@@ -5,7 +5,6 @@ namespace CakeWorldDay5Assignment
 {
     internal class InvalidFlavorException : Exception
     {
-        string errorMessage;
         public InvalidFlavorException() : base()
         {
         }
