@@ -1,0 +1,15 @@
+D:\Capgemini\Assessment-27-12-2025\bin\Debug\net10.0\Assessment-27-12-2025.exe
+D:\Capgemini\Assessment-27-12-2025\bin\Debug\net10.0\Assessment-27-12-2025.deps.json
+D:\Capgemini\Assessment-27-12-2025\bin\Debug\net10.0\Assessment-27-12-2025.runtimeconfig.json
+D:\Capgemini\Assessment-27-12-2025\bin\Debug\net10.0\Assessment-27-12-2025.dll
+D:\Capgemini\Assessment-27-12-2025\bin\Debug\net10.0\Assessment-27-12-2025.pdb
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\Assessment-27-12-2025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\Assessment-27-12-2025.AssemblyInfoInputs.cache
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\Assessment-27-12-2025.AssemblyInfo.cs
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\Assessment-27-12-2025.csproj.CoreCompileInputs.cache
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\Assessment-27-12-2025.sourcelink.json
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\Assessment-27-12-2025.dll
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\refint\Assessment-27-12-2025.dll
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\Assessment-27-12-2025.pdb
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\Assessment-27-12-2025.genruntimeconfig.cache
+D:\Capgemini\Assessment-27-12-2025\obj\Debug\net10.0\ref\Assessment-27-12-2025.dll

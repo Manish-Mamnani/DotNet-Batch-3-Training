@@ -1,0 +1,15 @@
+D:\Capgemini\Day8Collection\bin\Debug\net10.0\Day8Collection.exe
+D:\Capgemini\Day8Collection\bin\Debug\net10.0\Day8Collection.deps.json
+D:\Capgemini\Day8Collection\bin\Debug\net10.0\Day8Collection.runtimeconfig.json
+D:\Capgemini\Day8Collection\bin\Debug\net10.0\Day8Collection.dll
+D:\Capgemini\Day8Collection\bin\Debug\net10.0\Day8Collection.pdb
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\Day8Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\Day8Collection.AssemblyInfoInputs.cache
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\Day8Collection.AssemblyInfo.cs
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\Day8Collection.csproj.CoreCompileInputs.cache
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\Day8Collection.sourcelink.json
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\Day8Collection.dll
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\refint\Day8Collection.dll
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\Day8Collection.pdb
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\Day8Collection.genruntimeconfig.cache
+D:\Capgemini\Day8Collection\obj\Debug\net10.0\ref\Day8Collection.dll
