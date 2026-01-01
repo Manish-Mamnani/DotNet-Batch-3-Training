@@ -20,6 +20,14 @@ namespace LPU_DAL
                 new Student(){Id = 101,Name = "Manish", Course = CourseType.CSE, Address = "Pilibhit"},
                 new Student(){Id = 102,Name = "Himanshu", Course = CourseType.CSE, Address = "Odhisa"},
                 new Student(){Id = 103,Name = "Mahi", Course = CourseType.CSE, Address = "Moradabad"},
+                new Student(){Id = 104,Name = "Krishma", Course = CourseType.CSE, Address = "Punjab"},
+                new Student(){Id = 1011,Name = "Manish", Course = CourseType.CSE, Address = "Delhi"},
+                new Student(){Id = 102,Name = "Himanshu", Course = CourseType.CSE, Address = "Hyderbad"},
+                new Student(){Id = 103,Name = "Mahi", Course = CourseType.CSE, Address = "Moradabad"},
+                new Student(){Id = 104,Name = "Krishma", Course = CourseType.CSE, Address = "Punjab"},
+                new Student(){Id = 1012,Name = "Manish", Course = CourseType.CSE, Address = "Jhansi"},
+                new Student(){Id = 102,Name = "Himanshu", Course = CourseType.CSE, Address = "Odhisa"},
+                new Student(){Id = 103,Name = "Mahi", Course = CourseType.CSE, Address = "Moradabad"},
                 new Student(){Id = 104,Name = "Krishma", Course = CourseType.CSE, Address = "Punjab"}
             };
         }
