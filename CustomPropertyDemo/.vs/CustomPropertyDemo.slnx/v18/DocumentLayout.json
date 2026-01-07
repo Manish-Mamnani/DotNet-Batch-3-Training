@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\CustomPropertyDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B103EE-87AB-3147-FB04-4474FDBEBCFF}|CustomPropertyDemo.csproj|d:\\capgemini\\custompropertydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B103EE-87AB-3147-FB04-4474FDBEBCFF}|CustomPropertyDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B103EE-87AB-3147-FB04-4474FDBEBCFF}|CustomPropertyDemo.csproj|d:\\capgemini\\custompropertydemo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B103EE-87AB-3147-FB04-4474FDBEBCFF}|CustomPropertyDemo.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B103EE-87AB-3147-FB04-4474FDBEBCFF}|CustomPropertyDemo.csproj|d:\\capgemini\\custompropertydemo\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B103EE-87AB-3147-FB04-4474FDBEBCFF}|CustomPropertyDemo.csproj|solutionrelative:orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B103EE-87AB-3147-FB04-4474FDBEBCFF}|CustomPropertyDemo.csproj|d:\\capgemini\\custompropertydemo\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B103EE-87AB-3147-FB04-4474FDBEBCFF}|CustomPropertyDemo.csproj|solutionrelative:address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CustomPropertyDemo\\Orders.cs",
+              "RelativeDocumentMoniker": "Orders.cs",
+              "ToolTip": "D:\\Capgemini\\CustomPropertyDemo\\Orders.cs",
+              "RelativeToolTip": "Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T03:52:50.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CustomPropertyDemo\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\Capgemini\\CustomPropertyDemo\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T03:52:13.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CustomPropertyDemo\\Address.cs",
+              "RelativeDocumentMoniker": "Address.cs",
+              "ToolTip": "D:\\Capgemini\\CustomPropertyDemo\\Address.cs",
+              "RelativeToolTip": "Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T03:51:43.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CustomPropertyDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini\\CustomPropertyDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T18:11:19.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
