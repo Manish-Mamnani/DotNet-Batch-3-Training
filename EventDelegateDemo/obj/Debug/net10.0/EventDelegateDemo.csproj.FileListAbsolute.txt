@@ -1,0 +1,15 @@
+D:\Capgemini\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.exe
+D:\Capgemini\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.deps.json
+D:\Capgemini\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.runtimeconfig.json
+D:\Capgemini\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.dll
+D:\Capgemini\EventDelegateDemo\bin\Debug\net10.0\EventDelegateDemo.pdb
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.AssemblyInfoInputs.cache
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.AssemblyInfo.cs
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.sourcelink.json
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.dll
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\refint\EventDelegateDemo.dll
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.pdb
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\EventDelegateDemo.genruntimeconfig.cache
+D:\Capgemini\EventDelegateDemo\obj\Debug\net10.0\ref\EventDelegateDemo.dll

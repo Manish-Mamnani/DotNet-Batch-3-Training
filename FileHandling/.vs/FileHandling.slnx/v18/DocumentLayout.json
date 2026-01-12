@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\FileHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F49E5D-2688-4130-9D98-280422A3A2DE}|FileHandling.csproj|d:\\capgemini\\filehandling\\filestreamdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F49E5D-2688-4130-9D98-280422A3A2DE}|FileHandling.csproj|solutionrelative:filestreamdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F49E5D-2688-4130-9D98-280422A3A2DE}|FileHandling.csproj|d:\\capgemini\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F49E5D-2688-4130-9D98-280422A3A2DE}|FileHandling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F49E5D-2688-4130-9D98-280422A3A2DE}|FileHandling.csproj|d:\\capgemini\\filehandling\\directorydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F49E5D-2688-4130-9D98-280422A3A2DE}|FileHandling.csproj|solutionrelative:directorydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileStreamDemo.cs",
+              "DocumentMoniker": "D:\\Capgemini\\FileHandling\\FileStreamDemo.cs",
+              "RelativeDocumentMoniker": "FileStreamDemo.cs",
+              "ToolTip": "D:\\Capgemini\\FileHandling\\FileStreamDemo.cs",
+              "RelativeToolTip": "FileStreamDemo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T04:46:01.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DirectoryDemo.cs",
+              "DocumentMoniker": "D:\\Capgemini\\FileHandling\\DirectoryDemo.cs",
+              "RelativeDocumentMoniker": "DirectoryDemo.cs",
+              "ToolTip": "D:\\Capgemini\\FileHandling\\DirectoryDemo.cs",
+              "RelativeToolTip": "DirectoryDemo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T04:17:17.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini\\FileHandling\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T04:00:58.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Capgemini\FileHandling\bin\Debug\net10.0\FileHandling.exe
+D:\Capgemini\FileHandling\bin\Debug\net10.0\FileHandling.deps.json
+D:\Capgemini\FileHandling\bin\Debug\net10.0\FileHandling.runtimeconfig.json
+D:\Capgemini\FileHandling\bin\Debug\net10.0\FileHandling.dll
+D:\Capgemini\FileHandling\bin\Debug\net10.0\FileHandling.pdb
+D:\Capgemini\FileHandling\obj\Debug\net10.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\FileHandling\obj\Debug\net10.0\FileHandling.AssemblyInfoInputs.cache
+D:\Capgemini\FileHandling\obj\Debug\net10.0\FileHandling.AssemblyInfo.cs
+D:\Capgemini\FileHandling\obj\Debug\net10.0\FileHandling.csproj.CoreCompileInputs.cache
+D:\Capgemini\FileHandling\obj\Debug\net10.0\FileHandling.sourcelink.json
+D:\Capgemini\FileHandling\obj\Debug\net10.0\FileHandling.dll
+D:\Capgemini\FileHandling\obj\Debug\net10.0\refint\FileHandling.dll
+D:\Capgemini\FileHandling\obj\Debug\net10.0\FileHandling.pdb
+D:\Capgemini\FileHandling\obj\Debug\net10.0\FileHandling.genruntimeconfig.cache
+D:\Capgemini\FileHandling\obj\Debug\net10.0\ref\FileHandling.dll
