@@ -1,0 +1,15 @@
+D:\Capgemini\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.exe
+D:\Capgemini\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.deps.json
+D:\Capgemini\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.runtimeconfig.json
+D:\Capgemini\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.dll
+D:\Capgemini\EventDrivenPhoneCall\bin\Debug\net10.0\EventDrivenPhoneCall.pdb
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.AssemblyInfoInputs.cache
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.AssemblyInfo.cs
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.csproj.CoreCompileInputs.cache
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.sourcelink.json
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.dll
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\refint\EventDrivenPhoneCall.dll
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.pdb
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\EventDrivenPhoneCall.genruntimeconfig.cache
+D:\Capgemini\EventDrivenPhoneCall\obj\Debug\net10.0\ref\EventDrivenPhoneCall.dll

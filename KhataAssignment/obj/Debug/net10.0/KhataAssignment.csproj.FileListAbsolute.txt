@@ -1,0 +1,15 @@
+D:\Capgemini\KhataAssignment\bin\Debug\net10.0\KhataAssignment.exe
+D:\Capgemini\KhataAssignment\bin\Debug\net10.0\KhataAssignment.deps.json
+D:\Capgemini\KhataAssignment\bin\Debug\net10.0\KhataAssignment.runtimeconfig.json
+D:\Capgemini\KhataAssignment\bin\Debug\net10.0\KhataAssignment.dll
+D:\Capgemini\KhataAssignment\bin\Debug\net10.0\KhataAssignment.pdb
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\KhataAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\KhataAssignment.AssemblyInfoInputs.cache
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\KhataAssignment.AssemblyInfo.cs
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\KhataAssignment.csproj.CoreCompileInputs.cache
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\KhataAssignment.sourcelink.json
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\KhataAssignment.dll
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\refint\KhataAssignment.dll
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\KhataAssignment.pdb
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\KhataAssignment.genruntimeconfig.cache
+D:\Capgemini\KhataAssignment\obj\Debug\net10.0\ref\KhataAssignment.dll
