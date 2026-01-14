@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|d:\\capgemini\\linq_assignment_boilerplatecode\\linq_assignment_boilerplatecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|solutionrelative:linq_assignment_boilerplatecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|d:\\capgemini\\linq_assignment_boilerplatecode\\linq_assignment_boilerplatecode\\repos\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|solutionrelative:linq_assignment_boilerplatecode\\repos\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|d:\\capgemini\\linq_assignment_boilerplatecode\\linq_assignment_boilerplatecode\\repos\\projectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|solutionrelative:linq_assignment_boilerplatecode\\repos\\projectrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Repos\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "LINQ_Assignment_BoilerPlateCode\\Repos\\EmployeeRepo.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Repos\\EmployeeRepo.cs",
+              "RelativeToolTip": "LINQ_Assignment_BoilerPlateCode\\Repos\\EmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:25:54.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectRepo.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Repos\\ProjectRepo.cs",
+              "RelativeDocumentMoniker": "LINQ_Assignment_BoilerPlateCode\\Repos\\ProjectRepo.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Repos\\ProjectRepo.cs",
+              "RelativeToolTip": "LINQ_Assignment_BoilerPlateCode\\Repos\\ProjectRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T10:25:52.924Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "LINQ_Assignment_BoilerPlateCode\\Program.cs",
               "ToolTip": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Program.cs",
               "RelativeToolTip": "LINQ_Assignment_BoilerPlateCode\\Program.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAiwIUAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T09:03:08.791Z",
               "EditorCaption": ""
