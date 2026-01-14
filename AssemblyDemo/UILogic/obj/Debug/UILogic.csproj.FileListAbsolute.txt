@@ -1,0 +1,10 @@
+D:\Capgemini\AssemblyDemo\UILogic\obj\Debug\UILogic.csproj.AssemblyReference.cache
+D:\Capgemini\AssemblyDemo\UILogic\obj\Debug\UILogic.csproj.CoreCompileInputs.cache
+D:\Capgemini\AssemblyDemo\UILogic\bin\Debug\UILogic.exe.config
+D:\Capgemini\AssemblyDemo\UILogic\bin\Debug\UILogic.exe
+D:\Capgemini\AssemblyDemo\UILogic\bin\Debug\UILogic.pdb
+D:\Capgemini\AssemblyDemo\UILogic\bin\Debug\ServiceLibrary.dll
+D:\Capgemini\AssemblyDemo\UILogic\bin\Debug\ServiceLibrary.pdb
+D:\Capgemini\AssemblyDemo\UILogic\obj\Debug\UILogic.csproj.Up2Date
+D:\Capgemini\AssemblyDemo\UILogic\obj\Debug\UILogic.exe
+D:\Capgemini\AssemblyDemo\UILogic\obj\Debug\UILogic.pdb

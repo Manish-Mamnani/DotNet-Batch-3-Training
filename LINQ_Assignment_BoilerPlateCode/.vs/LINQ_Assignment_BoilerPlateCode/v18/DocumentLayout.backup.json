@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|d:\\capgemini\\linq_assignment_boilerplatecode\\linq_assignment_boilerplatecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|solutionrelative:linq_assignment_boilerplatecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|d:\\capgemini\\linq_assignment_boilerplatecode\\linq_assignment_boilerplatecode\\dtos\\departmenttopemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|solutionrelative:linq_assignment_boilerplatecode\\dtos\\departmenttopemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|d:\\capgemini\\linq_assignment_boilerplatecode\\linq_assignment_boilerplatecode\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|solutionrelative:linq_assignment_boilerplatecode\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|d:\\capgemini\\linq_assignment_boilerplatecode\\linq_assignment_boilerplatecode\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|solutionrelative:linq_assignment_boilerplatecode\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|d:\\capgemini\\linq_assignment_boilerplatecode\\linq_assignment_boilerplatecode\\dtos\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B21314-2913-4B6A-9717-2B10557EB7AA}|LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode.csproj|solutionrelative:linq_assignment_boilerplatecode\\dtos\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentTopEmployees.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\DTOs\\DepartmentTopEmployees.cs",
+              "RelativeDocumentMoniker": "LINQ_Assignment_BoilerPlateCode\\DTOs\\DepartmentTopEmployees.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\DTOs\\DepartmentTopEmployees.cs",
+              "RelativeToolTip": "LINQ_Assignment_BoilerPlateCode\\DTOs\\DepartmentTopEmployees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:29:52.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\DTOs\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "LINQ_Assignment_BoilerPlateCode\\DTOs\\EmployeeProject.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\DTOs\\EmployeeProject.cs",
+              "RelativeToolTip": "LINQ_Assignment_BoilerPlateCode\\DTOs\\EmployeeProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:35:32.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "LINQ_Assignment_BoilerPlateCode\\Models\\Project.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Models\\Project.cs",
+              "RelativeToolTip": "LINQ_Assignment_BoilerPlateCode\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:29:56.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQ_Assignment_BoilerPlateCode\\Models\\Employee.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Models\\Employee.cs",
+              "RelativeToolTip": "LINQ_Assignment_BoilerPlateCode\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:29:54.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Assignment_BoilerPlateCode\\Program.cs",
+              "ToolTip": "D:\\Capgemini\\LINQ_Assignment_BoilerPlateCode\\LINQ_Assignment_BoilerPlateCode\\Program.cs",
+              "RelativeToolTip": "LINQ_Assignment_BoilerPlateCode\\Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwDEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T09:03:08.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

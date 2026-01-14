@@ -1,0 +1,6 @@
+D:\Capgemini\AssemblyDemo\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+D:\Capgemini\AssemblyDemo\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+D:\Capgemini\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.AssemblyReference.cache
+D:\Capgemini\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+D:\Capgemini\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+D:\Capgemini\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
