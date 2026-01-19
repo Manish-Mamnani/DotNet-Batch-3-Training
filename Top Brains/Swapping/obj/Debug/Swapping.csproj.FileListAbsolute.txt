@@ -1,0 +1,7 @@
+D:\Capgemini\Top Brains\Swapping\bin\Debug\Swapping.exe.config
+D:\Capgemini\Top Brains\Swapping\bin\Debug\Swapping.exe
+D:\Capgemini\Top Brains\Swapping\bin\Debug\Swapping.pdb
+D:\Capgemini\Top Brains\Swapping\obj\Debug\Swapping.csproj.AssemblyReference.cache
+D:\Capgemini\Top Brains\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+D:\Capgemini\Top Brains\Swapping\obj\Debug\Swapping.exe
+D:\Capgemini\Top Brains\Swapping\obj\Debug\Swapping.pdb
