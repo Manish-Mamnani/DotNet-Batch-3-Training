@@ -1,0 +1,7 @@
+D:\Capgemini\TopBrains_CsharpProgramming\bin\Debug\TopBrains_CsharpProgramming.exe.config
+D:\Capgemini\TopBrains_CsharpProgramming\bin\Debug\TopBrains_CsharpProgramming.exe
+D:\Capgemini\TopBrains_CsharpProgramming\bin\Debug\TopBrains_CsharpProgramming.pdb
+D:\Capgemini\TopBrains_CsharpProgramming\obj\Debug\TopBrains_CsharpProgramming.csproj.AssemblyReference.cache
+D:\Capgemini\TopBrains_CsharpProgramming\obj\Debug\TopBrains_CsharpProgramming.csproj.CoreCompileInputs.cache
+D:\Capgemini\TopBrains_CsharpProgramming\obj\Debug\TopBrains_CsharpProgramming.exe
+D:\Capgemini\TopBrains_CsharpProgramming\obj\Debug\TopBrains_CsharpProgramming.pdb
