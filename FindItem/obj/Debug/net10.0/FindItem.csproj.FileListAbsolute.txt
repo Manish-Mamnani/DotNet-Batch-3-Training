@@ -1,0 +1,15 @@
+D:\Capgemini\FindItem\obj\Debug\net10.0\FindItem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\FindItem\obj\Debug\net10.0\FindItem.AssemblyInfoInputs.cache
+D:\Capgemini\FindItem\obj\Debug\net10.0\FindItem.AssemblyInfo.cs
+D:\Capgemini\FindItem\obj\Debug\net10.0\FindItem.csproj.CoreCompileInputs.cache
+D:\Capgemini\FindItem\obj\Debug\net10.0\FindItem.sourcelink.json
+D:\Capgemini\FindItem\bin\Debug\net10.0\FindItem.exe
+D:\Capgemini\FindItem\bin\Debug\net10.0\FindItem.deps.json
+D:\Capgemini\FindItem\bin\Debug\net10.0\FindItem.runtimeconfig.json
+D:\Capgemini\FindItem\bin\Debug\net10.0\FindItem.dll
+D:\Capgemini\FindItem\bin\Debug\net10.0\FindItem.pdb
+D:\Capgemini\FindItem\obj\Debug\net10.0\FindItem.dll
+D:\Capgemini\FindItem\obj\Debug\net10.0\refint\FindItem.dll
+D:\Capgemini\FindItem\obj\Debug\net10.0\FindItem.pdb
+D:\Capgemini\FindItem\obj\Debug\net10.0\FindItem.genruntimeconfig.cache
+D:\Capgemini\FindItem\obj\Debug\net10.0\ref\FindItem.dll

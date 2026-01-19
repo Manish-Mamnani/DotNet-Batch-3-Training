@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Capgemini\\CandyCrazeDay5Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA647E89-917C-428B-BD16-6AC120FCDC3D}|CandyCrazeDay5Assignment.csproj|d:\\capgemini\\candycrazeday5assignment\\candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA647E89-917C-428B-BD16-6AC120FCDC3D}|CandyCrazeDay5Assignment.csproj|solutionrelative:candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA647E89-917C-428B-BD16-6AC120FCDC3D}|CandyCrazeDay5Assignment.csproj|D:\\Capgemini\\CandyCrazeDay5Assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA647E89-917C-428B-BD16-6AC120FCDC3D}|CandyCrazeDay5Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA647E89-917C-428B-BD16-6AC120FCDC3D}|CandyCrazeDay5Assignment.csproj|d:\\capgemini\\candycrazeday5assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA647E89-917C-428B-BD16-6AC120FCDC3D}|CandyCrazeDay5Assignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA647E89-917C-428B-BD16-6AC120FCDC3D}|CandyCrazeDay5Assignment.csproj|d:\\capgemini\\candycrazeday5assignment\\candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA647E89-917C-428B-BD16-6AC120FCDC3D}|CandyCrazeDay5Assignment.csproj|solutionrelative:candy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Candy.cs",
               "DocumentMoniker": "D:\\Capgemini\\CandyCrazeDay5Assignment\\Candy.cs",
               "RelativeDocumentMoniker": "Candy.cs",
               "ToolTip": "D:\\Capgemini\\CandyCrazeDay5Assignment\\Candy.cs",
               "RelativeToolTip": "Candy.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T09:04:19.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Capgemini\\CandyCrazeDay5Assignment\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Capgemini\\CandyCrazeDay5Assignment\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-23T09:03:37.769Z",
               "EditorCaption": ""
