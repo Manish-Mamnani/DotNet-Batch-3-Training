@@ -70,9 +70,12 @@ INSERT INTO OrderDetails (OrdID,ProdID,SaleID,Quantity)VALUES
 (104, 4, 1, 1),  
 (104, 2, 1, 1),  
 (105, 1, 2, 1), 
-(105, 3, 2, 1);  
+(105, 3, 2, 1); 
 
 
+
+
+--Q2. Third Highest Total Sales
 SELECT O.OrdID as 'Order ID', SUM(P.PricePerUnit * O.Quantity) as 'Total Amount'
 FROM OrderDetails O
 JOIN Products P
@@ -82,12 +85,49 @@ ORDER BY SUM(P.PricePerUnit * O.Quantity) DESC
 OFFSET 2 ROWS
 FETCH NEXT 1 ROWS ONLY;
 
+
+--Q3 GROUP BY & HAVING .
 SELECT S.PersonName as 'Sales Person', SUM(P.PricePerUnit * O.Quantity) as 'Total Amount'
 FROM OrderDetails O
 JOIN Products P
 ON O.ProdID = P.ProductID
 JOIN SalesPerson S
 ON O.SaleID = S.SalesID
-GROUP BY S.SalesID
+GROUP BY S.PersonName
 HAVING SUM(P.PricePerUnit * O.Quantity) > 60000
 ORDER BY SUM(P.PricePerUnit * O.Quantity);
+
+
+--Q4. Subquery Usage
+SELECT C.CustomerName as 'Customer Name', SUM(P.PricePerUnit * O.Quantity) as 'Total Amount Spent'
+FROM OrderDetails O
+JOIN Products P
+ON O.ProdID = P.ProductID
+JOIN  Orders
+ON O.OrdID = Orders.OrderID
+JOIN Customer C
+ON Orders.CustID = C.CustomerID 
+GROUP BY C.CustomerName
+HAVING SUM(P.PricePerUnit * O.Quantity) > (
+	SELECT AVG(TotalAmount)
+	FROM (
+		SELECT SUM(P.PricePerUnit * O.Quantity) as TotalAmount
+		FROM OrderDetails O
+		JOIN Products P
+		ON O.ProdID = P.ProductID
+		JOIN  Orders
+		ON O.OrdID = Orders.OrderID
+		JOIN Customer C
+		ON Orders.CustID = C.CustomerID 
+		GROUP BY C.CustomerName
+	) T
+);
+
+
+--Q5. String & Date Functions
+SELECT UPPER(C.CustomerName) as 'Customer Name', O.OrderID as 'Order ID'
+FROM Orders O
+JOIN Customer C
+ON O.CustID = C.CustomerID 
+WHERE MONTH(O.OrderDate) = 1 AND YEAR(O.OrderDate) = 2026;
+
