@@ -1,0 +1,15 @@
+D:\Capgemini\MSTeamsPractice\bin\Debug\net10.0\MSTeamsPractice.exe
+D:\Capgemini\MSTeamsPractice\bin\Debug\net10.0\MSTeamsPractice.deps.json
+D:\Capgemini\MSTeamsPractice\bin\Debug\net10.0\MSTeamsPractice.runtimeconfig.json
+D:\Capgemini\MSTeamsPractice\bin\Debug\net10.0\MSTeamsPractice.dll
+D:\Capgemini\MSTeamsPractice\bin\Debug\net10.0\MSTeamsPractice.pdb
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\MSTeamsPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\MSTeamsPractice.AssemblyInfoInputs.cache
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\MSTeamsPractice.AssemblyInfo.cs
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\MSTeamsPractice.csproj.CoreCompileInputs.cache
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\MSTeamsPractice.sourcelink.json
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\MSTeamsPractice.dll
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\refint\MSTeamsPractice.dll
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\MSTeamsPractice.pdb
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\MSTeamsPractice.genruntimeconfig.cache
+D:\Capgemini\MSTeamsPractice\obj\Debug\net10.0\ref\MSTeamsPractice.dll

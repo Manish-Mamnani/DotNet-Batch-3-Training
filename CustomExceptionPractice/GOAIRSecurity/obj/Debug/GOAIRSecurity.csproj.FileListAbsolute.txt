@@ -1,0 +1,7 @@
+D:\Capgemini\CustomExceptionPractice\GOAIRSecurity\bin\Debug\GOAIRSecurity.exe.config
+D:\Capgemini\CustomExceptionPractice\GOAIRSecurity\bin\Debug\GOAIRSecurity.exe
+D:\Capgemini\CustomExceptionPractice\GOAIRSecurity\bin\Debug\GOAIRSecurity.pdb
+D:\Capgemini\CustomExceptionPractice\GOAIRSecurity\obj\Debug\GOAIRSecurity.csproj.AssemblyReference.cache
+D:\Capgemini\CustomExceptionPractice\GOAIRSecurity\obj\Debug\GOAIRSecurity.csproj.CoreCompileInputs.cache
+D:\Capgemini\CustomExceptionPractice\GOAIRSecurity\obj\Debug\GOAIRSecurity.exe
+D:\Capgemini\CustomExceptionPractice\GOAIRSecurity\obj\Debug\GOAIRSecurity.pdb

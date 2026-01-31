@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CalculatorService/CalculatorService.csproj" />
+  <Project Path="MSUnitTest/MSUnitTest.csproj" />
+  <Project Path="NUnitTestProject1/NUnitTestProject1.csproj" />
+  <Project Path="UnitTest1/UnitTest1.csproj" />
+</Solution>

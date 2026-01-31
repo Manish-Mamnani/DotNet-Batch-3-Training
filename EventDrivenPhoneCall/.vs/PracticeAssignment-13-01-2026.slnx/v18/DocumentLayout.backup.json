@@ -3,16 +3,13 @@
   "WorkspaceRootPath": "D:\\Capgemini\\EventDrivenPhoneCall\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0EED92D-0777-4B6B-B1E5-B6186F35291D}|..\\KhataAssignment\\KhataAssignment.csproj|d:\\capgemini\\khataassignment\\khata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1D11E3B-9A5A-4B94-B802-779C9994B16C}|..\\LotteryTicketSystem\\LotteryTicketSystem.csproj|d:\\capgemini\\lotteryticketsystem\\lottery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D11E3B-9A5A-4B94-B802-779C9994B16C}|..\\LotteryTicketSystem\\LotteryTicketSystem.csproj|d:\\capgemini\\lotteryticketsystem\\customeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1D11E3B-9A5A-4B94-B802-779C9994B16C}|..\\LotteryTicketSystem\\LotteryTicketSystem.csproj|d:\\capgemini\\lotteryticketsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D11E3B-9A5A-4B94-B802-779C9994B16C}|..\\LotteryTicketSystem\\LotteryTicketSystem.csproj|d:\\capgemini\\lotteryticketsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1D11E3B-9A5A-4B94-B802-779C9994B16C}|..\\LotteryTicketSystem\\LotteryTicketSystem.csproj|d:\\capgemini\\lotteryticketsystem\\customeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +19,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Khata.cs",
-              "DocumentMoniker": "D:\\Capgemini\\KhataAssignment\\Khata.cs",
-              "RelativeDocumentMoniker": "..\\KhataAssignment\\Khata.cs",
-              "ToolTip": "D:\\Capgemini\\KhataAssignment\\Khata.cs",
-              "RelativeToolTip": "..\\KhataAssignment\\Khata.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T09:59:41.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lottery.cs",
-              "DocumentMoniker": "D:\\Capgemini\\LotteryTicketSystem\\Lottery.cs",
-              "RelativeDocumentMoniker": "..\\LotteryTicketSystem\\Lottery.cs",
-              "ToolTip": "D:\\Capgemini\\LotteryTicketSystem\\Lottery.cs",
-              "RelativeToolTip": "..\\LotteryTicketSystem\\Lottery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T09:53:26.586Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -58,20 +29,33 @@
               "RelativeDocumentMoniker": "..\\LotteryTicketSystem\\CustomEventArgs.cs",
               "ToolTip": "D:\\Capgemini\\LotteryTicketSystem\\CustomEventArgs.cs",
               "RelativeToolTip": "..\\LotteryTicketSystem\\CustomEventArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T09:50:21.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Lottery.cs",
+              "DocumentMoniker": "D:\\Capgemini\\LotteryTicketSystem\\Lottery.cs",
+              "RelativeDocumentMoniker": "..\\LotteryTicketSystem\\Lottery.cs",
+              "ToolTip": "D:\\Capgemini\\LotteryTicketSystem\\Lottery.cs",
+              "RelativeToolTip": "..\\LotteryTicketSystem\\Lottery.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:53:26.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Capgemini\\LotteryTicketSystem\\Program.cs",
               "RelativeDocumentMoniker": "..\\LotteryTicketSystem\\Program.cs",
               "ToolTip": "D:\\Capgemini\\LotteryTicketSystem\\Program.cs",
               "RelativeToolTip": "..\\LotteryTicketSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T09:47:30.507Z",
               "EditorCaption": ""

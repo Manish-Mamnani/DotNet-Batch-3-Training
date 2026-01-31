@@ -1,0 +1,6 @@
+D:\Capgemini\CodeForUnitTesting\CalculatorService\bin\Debug\CalculatorService.dll
+D:\Capgemini\CodeForUnitTesting\CalculatorService\bin\Debug\CalculatorService.pdb
+D:\Capgemini\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.csproj.AssemblyReference.cache
+D:\Capgemini\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.dll
+D:\Capgemini\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.pdb

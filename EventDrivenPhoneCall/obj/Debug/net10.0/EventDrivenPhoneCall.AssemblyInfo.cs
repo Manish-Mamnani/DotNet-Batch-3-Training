@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventDrivenPhoneCall")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0b9dd3b224d536466622f4af59a9ba5e642512c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+001f717cf812a55cb40f8d7e599cd823cce9dff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventDrivenPhoneCall")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventDrivenPhoneCall")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

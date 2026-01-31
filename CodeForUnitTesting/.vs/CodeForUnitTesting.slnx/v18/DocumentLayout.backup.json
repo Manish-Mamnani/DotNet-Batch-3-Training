@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\CodeForUnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E0667B-EBA4-43B9-915C-6D3771EFFCCD}|UnitTest1\\UnitTest1.csproj|d:\\capgemini\\codeforunittesting\\unittest1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E0667B-EBA4-43B9-915C-6D3771EFFCCD}|UnitTest1\\UnitTest1.csproj|solutionrelative:unittest1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57CA22F-1F34-40BE-9082-724150403A9F}|MSUnitTest\\MSUnitTest.csproj|d:\\capgemini\\codeforunittesting\\msunittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57CA22F-1F34-40BE-9082-724150403A9F}|MSUnitTest\\MSUnitTest.csproj|solutionrelative:msunittest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96EE04B-3893-4FAE-B3DC-FB3EBF725813}|NUnitTestProject1\\NUnitTestProject1.csproj|d:\\capgemini\\codeforunittesting\\nunittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F96EE04B-3893-4FAE-B3DC-FB3EBF725813}|NUnitTestProject1\\NUnitTestProject1.csproj|solutionrelative:nunittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89553B13-1E9E-44EA-9412-E2CF9173615E}|CalculatorService\\CalculatorService.csproj|d:\\capgemini\\codeforunittesting\\calculatorservice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89553B13-1E9E-44EA-9412-E2CF9173615E}|CalculatorService\\CalculatorService.csproj|solutionrelative:calculatorservice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CodeForUnitTesting\\MSUnitTest\\Test1.cs",
+              "RelativeDocumentMoniker": "MSUnitTest\\Test1.cs",
+              "ToolTip": "D:\\Capgemini\\CodeForUnitTesting\\MSUnitTest\\Test1.cs",
+              "RelativeToolTip": "MSUnitTest\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:57:47.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CodeForUnitTesting\\NUnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NUnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\Capgemini\\CodeForUnitTesting\\NUnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "NUnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:39:10.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CodeForUnitTesting\\UnitTest1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cs",
+              "ToolTip": "D:\\Capgemini\\CodeForUnitTesting\\UnitTest1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:35:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Capgemini\\CodeForUnitTesting\\CalculatorService\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorService\\Calculator.cs",
+              "ToolTip": "D:\\Capgemini\\CodeForUnitTesting\\CalculatorService\\Calculator.cs",
+              "RelativeToolTip": "CalculatorService\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:56:29.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
