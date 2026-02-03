@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "D:\\Capgemini\\EventDelegateDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|d:\\capgemini\\eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|d:\\capgemini\\eventdelegatedemo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|solutionrelative:productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|d:\\capgemini\\eventdelegatedemo\\eventdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|solutionrelative:eventdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|d:\\capgemini\\eventdelegatedemo\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|solutionrelative:productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|d:\\capgemini\\eventdelegatedemo\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|solutionrelative:irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|d:\\capgemini\\eventdelegatedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A898730A-2F80-DEC9-0985-4F6127E17105}|EventDelegateDemo.csproj|d:\\capgemini\\eventdelegatedemo\\delegatedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EventDemo.cs",
               "DocumentMoniker": "D:\\Capgemini\\EventDelegateDemo\\EventDemo.cs",
               "RelativeDocumentMoniker": "EventDemo.cs",
               "ToolTip": "D:\\Capgemini\\EventDelegateDemo\\EventDemo.cs",
               "RelativeToolTip": "EventDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T06:21:02.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Capgemini\\EventDelegateDemo\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
@@ -59,11 +59,12 @@
               "RelativeToolTip": "Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T04:11:14.867Z"
+              "WhenOpened": "2026-01-09T04:11:14.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductRepo.cs",
               "DocumentMoniker": "D:\\Capgemini\\EventDelegateDemo\\ProductRepo.cs",
               "RelativeDocumentMoniker": "ProductRepo.cs",
@@ -76,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IRepo.cs",
               "DocumentMoniker": "D:\\Capgemini\\EventDelegateDemo\\IRepo.cs",
               "RelativeDocumentMoniker": "IRepo.cs",
@@ -84,7 +85,8 @@
               "RelativeToolTip": "IRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T04:07:02.139Z"
+              "WhenOpened": "2026-01-09T04:07:02.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,19 +96,20 @@
               "RelativeDocumentMoniker": "DelegateDemo.cs",
               "ToolTip": "D:\\Capgemini\\EventDelegateDemo\\DelegateDemo.cs",
               "RelativeToolTip": "DelegateDemo.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAA/wDkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAA/wDIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T04:05:18.648Z"
+              "WhenOpened": "2026-01-09T04:05:18.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Capgemini\\EventDelegateDemo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Capgemini\\EventDelegateDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T04:05:21.349Z",
               "EditorCaption": ""
