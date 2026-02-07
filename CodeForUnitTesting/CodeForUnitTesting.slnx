@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="CalculatorService/CalculatorService.csproj" />
+  <Project Path="CalculatorService/CalculatorService.csproj" Id="89553b13-1e9e-44ea-9412-e2cf9173615e" />
   <Project Path="MSUnitTest/MSUnitTest.csproj" />
   <Project Path="NUnitTestProject1/NUnitTestProject1.csproj" />
-  <Project Path="UnitTest1/UnitTest1.csproj" />
+  <Project Path="UnitTest1/UnitTest1.csproj" Id="d9e0667b-eba4-43b9-915c-6d3771effccd" />
 </Solution>

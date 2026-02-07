@@ -1,0 +1,7 @@
+D:\Capgemini\MSTeamsPractice\TeamsPractice2\bin\Debug\TeamsPractice2.exe.config
+D:\Capgemini\MSTeamsPractice\TeamsPractice2\bin\Debug\TeamsPractice2.exe
+D:\Capgemini\MSTeamsPractice\TeamsPractice2\bin\Debug\TeamsPractice2.pdb
+D:\Capgemini\MSTeamsPractice\TeamsPractice2\obj\Debug\TeamsPractice2.csproj.AssemblyReference.cache
+D:\Capgemini\MSTeamsPractice\TeamsPractice2\obj\Debug\TeamsPractice2.csproj.CoreCompileInputs.cache
+D:\Capgemini\MSTeamsPractice\TeamsPractice2\obj\Debug\TeamsPractice2.exe
+D:\Capgemini\MSTeamsPractice\TeamsPractice2\obj\Debug\TeamsPractice2.pdb

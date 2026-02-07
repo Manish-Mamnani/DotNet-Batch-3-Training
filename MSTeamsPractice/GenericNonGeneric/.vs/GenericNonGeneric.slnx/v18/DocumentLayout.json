@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\MSTeamsPractice\\GenericNonGeneric\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F24713D-892D-4FF8-92BB-662C08DD5EFA}|GenericNonGeneric.csproj|d:\\capgemini\\msteamspractice\\genericnongeneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F24713D-892D-4FF8-92BB-662C08DD5EFA}|GenericNonGeneric.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\MSTeamsPractice\\GenericNonGeneric\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini\\MSTeamsPractice\\GenericNonGeneric\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:00:51.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
