@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{9AC7FB2C-28FE-469A-91A9-C9C6D9345486}|UniverSity Course Registration System\\UniverSity Course Registration System.csproj|solutionrelative:university course registration system\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AC7FB2C-28FE-469A-91A9-C9C6D9345486}|UniverSity Course Registration System\\UniverSity Course Registration System.csproj|d:\\capgemini\\university course registration system\\university course registration system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AC7FB2C-28FE-469A-91A9-C9C6D9345486}|UniverSity Course Registration System\\UniverSity Course Registration System.csproj|solutionrelative:university course registration system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9AC7FB2C-28FE-469A-91A9-C9C6D9345486}|UniverSity Course Registration System\\UniverSity Course Registration System.csproj|d:\\capgemini\\university course registration system\\university course registration system\\universitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AC7FB2C-28FE-469A-91A9-C9C6D9345486}|UniverSity Course Registration System\\UniverSity Course Registration System.csproj|solutionrelative:university course registration system\\universitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC7FB2C-28FE-469A-91A9-C9C6D9345486}|UniverSity Course Registration System\\UniverSity Course Registration System.csproj|d:\\capgemini\\university course registration system\\university course registration system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC7FB2C-28FE-469A-91A9-C9C6D9345486}|UniverSity Course Registration System\\UniverSity Course Registration System.csproj|solutionrelative:university course registration system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,29 +30,28 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UniversitySystem.cs",
               "DocumentMoniker": "D:\\Capgemini\\UniverSity Course Registration System\\UniverSity Course Registration System\\UniversitySystem.cs",
               "RelativeDocumentMoniker": "UniverSity Course Registration System\\UniversitySystem.cs",
               "ToolTip": "D:\\Capgemini\\UniverSity Course Registration System\\UniverSity Course Registration System\\UniversitySystem.cs",
               "RelativeToolTip": "UniverSity Course Registration System\\UniversitySystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwHwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T09:32:33.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Capgemini\\UniverSity Course Registration System\\UniverSity Course Registration System\\Student.cs",
               "RelativeDocumentMoniker": "UniverSity Course Registration System\\Student.cs",
               "ToolTip": "D:\\Capgemini\\UniverSity Course Registration System\\UniverSity Course Registration System\\Student.cs",
               "RelativeToolTip": "UniverSity Course Registration System\\Student.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAcwEIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwHwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T09:32:33.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T09:32:33.899Z"
             },
             {
               "$type": "Document",
@@ -62,7 +61,7 @@
               "RelativeDocumentMoniker": "UniverSity Course Registration System\\Course.cs",
               "ToolTip": "D:\\Capgemini\\UniverSity Course Registration System\\UniverSity Course Registration System\\Course.cs",
               "RelativeToolTip": "UniverSity Course Registration System\\Course.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAADwv1MAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvzkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T09:32:33.899Z",
               "EditorCaption": ""
@@ -75,7 +74,7 @@
               "RelativeDocumentMoniker": "UniverSity Course Registration System\\Program.cs",
               "ToolTip": "D:\\Capgemini\\UniverSity Course Registration System\\UniverSity Course Registration System\\Program.cs",
               "RelativeToolTip": "UniverSity Course Registration System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAkwJEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T09:32:33.899Z",
               "EditorCaption": ""

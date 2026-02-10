@@ -55,13 +55,12 @@ namespace University_Course_Registration_System
             // 1. Validate student and course existence
             // 2. Call student.AddCourse(course)
             // 3. Display meaningful messages
-            if(AvailableCourses.Any(s => s.Key == courseCode) && Students.Any(s => s.Key == studentId))
+            if(AvailableCourses.ContainsKey(courseCode) && Students.ContainsKey(studentId))
             {
                 var student = Students[studentId];
                 var course = AvailableCourses[courseCode];
-                student.AddCourse(course);
-                
-                return true;
+                return student.AddCourse(course);
+               
             }
             else
             {
@@ -75,12 +74,11 @@ namespace University_Course_Registration_System
             // TODO:
             // 1. Validate student existence
             // 2. Call student.DropCourse(courseCode)
-            if(AvailableCourses.Any(s => s.Key == courseCode) && Students.Any(s => s.Key == studentId))
+            if(AvailableCourses.ContainsKey(courseCode) && Students.ContainsKey(studentId))
             {
                 var student = Students[studentId];
-                student.DropCourse(courseCode);
+                return student.DropCourse(courseCode);
 
-                return true;
             }
             else
             {
@@ -95,7 +93,7 @@ namespace University_Course_Registration_System
             Console.WriteLine("\nCourse Code  |  Course Name  |  Course Credits  |  Enrollment Info");
             foreach (var item in AvailableCourses.Values)
             {
-                Console.WriteLine($"{item.CourseCode}  |  {item.CourseName}  |   {item.Credits}  |   {item.GetEnrollmentInfo}");
+                Console.WriteLine($"{item.CourseCode}  |  {item.CourseName}  |   {item.Credits}  |   {item.GetEnrollmentInfo()}");
             }
             
         }
@@ -105,7 +103,7 @@ namespace University_Course_Registration_System
             // TODO:
             // Validate student existence
             // Call student.DisplaySchedule()
-            if(Students.Any(s => s.Key == studentId))
+            if(Students.ContainsKey(studentId))
             {
                 var student = Students[studentId];
                 student.DisplaySchedule();
@@ -123,6 +121,16 @@ namespace University_Course_Registration_System
             // Display total students, total courses, average enrollment
             Console.WriteLine("\nTotal Students: "+Students.Count);
             Console.WriteLine("\nTotal Courses: "+AvailableCourses.Count);
+
+            int sum = 0;
+            foreach(var item in AvailableCourses.Values)
+            {
+                string[] enroll = item.GetEnrollmentInfo().Split('/');
+                sum += int.Parse(enroll[0]);
+            }
+
+            double avg = sum / AvailableCourses.Count;
+            Console.WriteLine($"Average Enrollment: {avg}");
         }
     }
 }

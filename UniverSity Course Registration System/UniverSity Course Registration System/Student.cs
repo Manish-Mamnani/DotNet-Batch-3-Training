@@ -64,7 +64,7 @@ namespace University_Course_Registration_System
             {
                 return false;
             }
-            if (!check)
+            if (check)
             {
                 return false;
             }
