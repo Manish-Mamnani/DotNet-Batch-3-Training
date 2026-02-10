@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|d:\\capgemini\\assessment 07-02-2026\\miniordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|d:\\capgemini\\assessment 07-02-2026\\miniordersystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|d:\\capgemini\\assessment 07-02-2026\\miniordersystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|d:\\capgemini\\assessment 07-02-2026\\miniordersystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|d:\\capgemini\\assessment 07-02-2026\\miniordersystem\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|solutionrelative:orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|d:\\capgemini\\assessment 07-02-2026\\miniordersystem\\invalidorderexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BACF26B-7C38-4319-AACE-9399CE2D4918}|MiniOrderSystem.csproj|solutionrelative:invalidorderexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAgwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:06:47.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:08:46.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:08:17.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:08:38.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderItem.cs",
+              "ToolTip": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\OrderItem.cs",
+              "RelativeToolTip": "OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:08:57.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidOrderException.cs",
+              "DocumentMoniker": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\InvalidOrderException.cs",
+              "RelativeDocumentMoniker": "InvalidOrderException.cs",
+              "ToolTip": "D:\\Capgemini\\Assessment 07-02-2026\\MiniOrderSystem\\InvalidOrderException.cs",
+              "RelativeToolTip": "InvalidOrderException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T09:17:52.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

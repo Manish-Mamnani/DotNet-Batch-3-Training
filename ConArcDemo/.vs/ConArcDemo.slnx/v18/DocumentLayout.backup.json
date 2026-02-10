@@ -34,9 +34,9 @@
               "Title": "StudentDAO.cs",
               "DocumentMoniker": "D:\\Capgemini\\ConArcDemo\\StudentDAO.cs",
               "RelativeDocumentMoniker": "StudentDAO.cs",
-              "ToolTip": "D:\\Capgemini\\ConArcDemo\\StudentDAO.cs*",
-              "RelativeToolTip": "StudentDAO.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Capgemini\\ConArcDemo\\StudentDAO.cs",
+              "RelativeToolTip": "StudentDAO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAWwGkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T06:29:00.742Z",
               "EditorCaption": ""
@@ -73,9 +73,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Capgemini\\ConArcDemo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T05:39:48.705Z"
+              "WhenOpened": "2026-02-06T05:39:48.705Z",
+              "EditorCaption": ""
             }
           ]
         }

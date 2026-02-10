@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini\\AsyncAwaitDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C643774A-8F4B-4566-9A5F-D90F50B6B645}|AsyncAwaitDemo.csproj|d:\\capgemini\\asyncawaitdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C643774A-8F4B-4566-9A5F-D90F50B6B645}|AsyncAwaitDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C643774A-8F4B-4566-9A5F-D90F50B6B645}|AsyncAwaitDemo.csproj|d:\\capgemini\\asyncawaitdemo\\democlass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C643774A-8F4B-4566-9A5F-D90F50B6B645}|AsyncAwaitDemo.csproj|solutionrelative:democlass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoClass.cs",
+              "DocumentMoniker": "D:\\Capgemini\\AsyncAwaitDemo\\DemoClass.cs",
+              "RelativeDocumentMoniker": "DemoClass.cs",
+              "ToolTip": "D:\\Capgemini\\AsyncAwaitDemo\\DemoClass.cs",
+              "RelativeToolTip": "DemoClass.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:34:18.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini\\AsyncAwaitDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini\\AsyncAwaitDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:30:59.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
