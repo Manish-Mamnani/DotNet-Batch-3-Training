@@ -1,0 +1,7 @@
+D:\Capgemini\Practice Questions\InventoryLookup\bin\Debug\InventoryLookup.exe.config
+D:\Capgemini\Practice Questions\InventoryLookup\bin\Debug\InventoryLookup.exe
+D:\Capgemini\Practice Questions\InventoryLookup\bin\Debug\InventoryLookup.pdb
+D:\Capgemini\Practice Questions\InventoryLookup\obj\Debug\InventoryLookup.csproj.AssemblyReference.cache
+D:\Capgemini\Practice Questions\InventoryLookup\obj\Debug\InventoryLookup.csproj.CoreCompileInputs.cache
+D:\Capgemini\Practice Questions\InventoryLookup\obj\Debug\InventoryLookup.exe
+D:\Capgemini\Practice Questions\InventoryLookup\obj\Debug\InventoryLookup.pdb

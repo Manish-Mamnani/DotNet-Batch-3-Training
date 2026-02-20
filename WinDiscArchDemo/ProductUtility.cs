@@ -14,11 +14,13 @@ namespace WinDiscArchDemo
         SqlDataAdapter adap1;
         DataSet ds;
         List<Product> prodList = null;
+        SqlCommandBuilder bldr = null;
 
         public ProductUtility()
         {
             con = new SqlConnection();
             con.ConnectionString = "Server=.;Integrated Security=True;Database=LPU_Db;TrustServerCertificate=true";
+            
 
         }
 
@@ -93,7 +95,39 @@ namespace WinDiscArchDemo
 
         public bool UpdateData(int id, Product obj)
         {
-            throw new NotImplementedException();
+            SqlCommand updateCmd = new SqlCommand();
+            SqlParameter[] param = new SqlParameter[4];
+
+            param[0] = new SqlParameter("@ProdID", obj.ProdID);
+            param[1] = new SqlParameter("@ProdName", obj.ProdName);
+            param[2] = new SqlParameter("@Price", obj.Price);
+            param[3] = new SqlParameter("@Desc", obj.Desc);
+
+            updateCmd.CommandText = "Update Products set ProdName=@ProdName,Price=@Price,Description=@Desc where ProdID=@ProdID";
+            updateCmd.Connection = con;
+            updateCmd.CommandType = CommandType.Text;
+
+            updateCmd.Parameters.AddRange(param);
+
+            adap1.UpdateCommand = updateCmd;
+            bldr.DataAdapter = adap1;
+
+            adap1.Update(ds);
+            return true;
+        }
+
+        public DataTable GetAllData()
+        {
+            adap1 = new SqlDataAdapter("Select * From Product", con);
+            adap1.MissingSchemaAction = MissingSchemaAction.AddWithKey;
+
+            bldr = new SqlCommandBuilder(adap1);
+
+            ds = new DataSet();
+            adap1.Fill(ds, "Product");
+
+            return ds.Tables[0];
+
         }
     }
 }

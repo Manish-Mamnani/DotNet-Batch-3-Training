@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LPU_Db" Class="LpuDbClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MANISH-PC\SQLEXPRESS;Initial Catalog=LPU_Db;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" SettingsObjectName="Con_LinqToSql_Demo.Properties.Settings" SettingsPropertyName="LPU_DbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Employee" Member="Employees">
+    <Type Name="Employee">
+      <Column Name="EmpId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Salary" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DeptId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="JoinDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Association Name="Department_Employee" Member="Department" ThisKey="DeptId" OtherKey="DeptId" Type="Department" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Department" Member="Departments">
+    <Type Name="Department">
+      <Column Name="DeptId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DeptName" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Association Name="Department_Employee" Member="Employees" ThisKey="DeptId" OtherKey="DeptId" Type="Employee" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Product" Member="Products">
+    <Type Name="Product">
+      <Column Name="ProdID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Category" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="Price" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.AddProduct" Method="AddProduct">
+    <Parameter Name="ProdID" Parameter="prodID" Type="System.Int32" DbType="Int" />
+    <Parameter Name="ProdName" Parameter="prodName" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Category" Parameter="category" Type="System.String" DbType="VarChar(30)" />
+    <Parameter Name="Price" Parameter="price" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Desc" Parameter="desc" Type="System.String" DbType="VarChar(200)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>
