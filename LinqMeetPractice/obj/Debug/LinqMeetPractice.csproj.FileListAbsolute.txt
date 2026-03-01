@@ -1,0 +1,7 @@
+D:\Capgemini\LinqMeetPractice\bin\Debug\LinqMeetPractice.exe.config
+D:\Capgemini\LinqMeetPractice\bin\Debug\LinqMeetPractice.exe
+D:\Capgemini\LinqMeetPractice\bin\Debug\LinqMeetPractice.pdb
+D:\Capgemini\LinqMeetPractice\obj\Debug\LinqMeetPractice.csproj.AssemblyReference.cache
+D:\Capgemini\LinqMeetPractice\obj\Debug\LinqMeetPractice.csproj.CoreCompileInputs.cache
+D:\Capgemini\LinqMeetPractice\obj\Debug\LinqMeetPractice.exe
+D:\Capgemini\LinqMeetPractice\obj\Debug\LinqMeetPractice.pdb

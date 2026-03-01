@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Capgemini\\MVCWebAppDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA3585DB-969F-473E-B646-2C2496065978}|MVCWebAppDemo.csproj|d:\\capgemini\\mvcwebappdemo\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA3585DB-969F-473E-B646-2C2496065978}|MVCWebAppDemo.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA3585DB-969F-473E-B646-2C2496065978}|MVCWebAppDemo.csproj|d:\\capgemini\\mvcwebappdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA3585DB-969F-473E-B646-2C2496065978}|MVCWebAppDemo.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3585DB-969F-473E-B646-2C2496065978}|MVCWebAppDemo.csproj|d:\\capgemini\\mvcwebappdemo\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA3585DB-969F-473E-B646-2C2496065978}|MVCWebAppDemo.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA3585DB-969F-473E-B646-2C2496065978}|MVCWebAppDemo.csproj|d:\\capgemini\\mvcwebappdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Capgemini\\MVCWebAppDemo\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\Capgemini\\MVCWebAppDemo\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "D:\\Capgemini\\MVCWebAppDemo\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAwwDkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T09:25:31.356Z",
               "EditorCaption": ""
