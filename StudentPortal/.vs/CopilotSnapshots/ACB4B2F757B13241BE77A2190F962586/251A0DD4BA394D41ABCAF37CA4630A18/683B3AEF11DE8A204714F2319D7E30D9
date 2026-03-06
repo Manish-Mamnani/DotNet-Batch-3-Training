@@ -1,0 +1,99 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* Custom Button Colors */
+.btn-edit {
+  color: #fff;
+  background-color: #00bfff;
+  border-color: #00bfff;
+}
+
+.btn-edit:hover {
+  color: #fff;
+  background-color: #0099cc;
+  border-color: #0099cc;
+}
+
+.btn-edit:focus,
+.btn-edit:active,
+.btn-edit.active {
+  color: #fff;
+  background-color: #0099cc;
+  border-color: #0099cc;
+}
+
+.btn-details {
+  color: #fff;
+  background-color: #daa520;
+  border-color: #daa520;
+}
+
+.btn-details:hover {
+  color: #fff;
+  background-color: #b8860b;
+  border-color: #b8860b;
+}
+
+.btn-details:focus,
+.btn-details:active,
+.btn-details.active {
+  color: #fff;
+  background-color: #b8860b;
+  border-color: #b8860b;
+}
+
+.btn-delete {
+  color: #fff;
+  background-color: #8b0000;
+  border-color: #8b0000;
+}
+
+.btn-delete:hover {
+  color: #fff;
+  background-color: #660000;
+  border-color: #660000;
+}
+
+.btn-delete:focus,
+.btn-delete:active,
+.btn-delete.active {
+  color: #fff;
+  background-color: #660000;
+  border-color: #660000;
+}
+
+/* Dark theme adjustments */
+[data-bs-theme="dark"] .btn-edit,
+[data-bs-theme="dark"] .btn-details,
+[data-bs-theme="dark"] .btn-delete {
+  color: #fff;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}

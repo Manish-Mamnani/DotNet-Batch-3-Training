@@ -26,11 +26,12 @@ namespace EventBooking.Api.Services.Implementations
         public async Task<string> RegisterAsync(RegisterRequestDto request)
         {
             // Check if email already exists
-            var existingUser = await _context.Users
-                .FirstOrDefaultAsync(u => u.Email == request.Email);
+            var existingUser = await _context.Users.FirstOrDefaultAsync(u => u.Email == request.Email);
 
             if (existingUser != null)
+            {
                 throw new Exception("Email already registered.");
+            }
 
             // Hash password
             var hashedPassword = BCrypt.Net.BCrypt.HashPassword(request.Password);
@@ -57,8 +58,7 @@ namespace EventBooking.Api.Services.Implementations
             if (user == null)
                 throw new Exception("Invalid credentials.");
 
-            bool isPasswordValid = BCrypt.Net.BCrypt
-                .Verify(request.Password, user.PasswordHash);
+            bool isPasswordValid = BCrypt.Net.BCrypt.Verify(request.Password, user.PasswordHash);
 
             if (!isPasswordValid)
                 throw new Exception("Invalid credentials.");

@@ -27,6 +27,7 @@ namespace EventBooking.Api
 
             builder.Services.AddScoped<IAuthService, AuthService>();
             builder.Services.AddScoped<IEventService, EventService>();
+            builder.Services.AddScoped<IBookingService, BookingService>();
 
             var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 

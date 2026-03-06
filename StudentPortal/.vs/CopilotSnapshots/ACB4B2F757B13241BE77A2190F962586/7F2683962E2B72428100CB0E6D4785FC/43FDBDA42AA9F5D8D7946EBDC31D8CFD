@@ -1,0 +1,181 @@
+﻿@model IEnumerable<StudentPortal.Models.Student>
+
+@{
+    ViewData["Title"] = "Students";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>Students List</h1>
+    <a asp-action="Create" class="btn btn-primary">Create New Student</a>
+</div>
+
+<div class="card mb-4">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="input-group">
+                    <input type="text" class="form-control" id="searchInput" placeholder="Search by name, email, phone, or status..." />
+                    <button class="btn btn-outline-secondary" type="button" id="clearSearch">Clear</button>
+                </div>
+            </div>
+            <div class="col-md-6 text-end">
+                <small class="text-muted">
+                    Total Records: <span id="totalRecords">@Model.Count()</span> | 
+                    Showing: <span id="visibleRecords">@Model.Count()</span>
+                </small>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-hover" id="studentsTable">
+        <thead class="table-light">
+            <tr>
+                <th>Full Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Status</th>
+                <th>Join Date</th>
+                <th>Created At</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="student-row">
+                    <td class="fullname-col">@Html.DisplayFor(modelItem => item.FullName)</td>
+                    <td class="email-col">@Html.DisplayFor(modelItem => item.Email)</td>
+                    <td class="phone-col">@Html.DisplayFor(modelItem => item.Phone)</td>
+                    <td class="status-col">
+                        @if (item.Status == "Active")
+                        {
+                            <span class="badge bg-success">@Html.DisplayFor(modelItem => item.Status)</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-danger">@Html.DisplayFor(modelItem => item.Status)</span>
+                        }
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.JoinDate)</td>
+                    <td>@Html.DisplayFor(modelItem => item.CreatedAt)</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a asp-action="Edit" asp-route-id="@item.StudentId" class="btn btn-sm btn-edit">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.StudentId" class="btn btn-sm btn-details">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.StudentId" class="btn btn-sm btn-delete">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div id="noResults" class="alert alert-info text-center" style="display: none;">
+    <strong>No students found matching your search criteria.</strong>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            const searchInput = $('#searchInput');
+            const clearBtn = $('#clearSearch');
+            const table = $('#studentsTable');
+            const rows = table.find('tbody tr.student-row');
+            const totalRecords = $('#totalRecords');
+            const visibleRecords = $('#visibleRecords');
+            const noResults = $('#noResults');
+
+            // Search functionality
+            searchInput.on('keyup', function() {
+                const searchTerm = $(this).val().toLowerCase();
+                let visibleCount = 0;
+
+                rows.each(function() {
+                    const fullname = $(this).find('.fullname-col').text().toLowerCase();
+                    const email = $(this).find('.email-col').text().toLowerCase();
+                    const phone = $(this).find('.phone-col').text().toLowerCase();
+                    const status = $(this).find('.status-col').text().toLowerCase();
+
+                    // Check if search term matches any column
+                    const matches = fullname.includes(searchTerm) || 
+                                   email.includes(searchTerm) || 
+                                   phone.includes(searchTerm) || 
+                                   status.includes(searchTerm);
+
+                    if (matches || searchTerm === '') {
+                        $(this).show();
+                        visibleCount++;
+                    } else {
+                        $(this).hide();
+                    }
+                });
+
+                // Update visible count and show/hide no results message
+                visibleRecords.text(visibleCount);
+                if (visibleCount === 0) {
+                    noResults.show();
+                    table.hide();
+                } else {
+                    noResults.hide();
+                    table.show();
+                }
+            });
+
+            // Clear search button
+            clearBtn.on('click', function() {
+                searchInput.val('');
+                rows.show();
+                visibleRecords.text(rows.length);
+                noResults.hide();
+                table.show();
+                searchInput.focus();
+            });
+
+            // Highlight matching text (optional enhancement)
+            searchInput.on('keyup', function() {
+                const searchTerm = $(this).val();
+                if (searchTerm.length > 0) {
+                    rows.each(function() {
+                        const $cells = $(this).find('td');
+                        $cells.each(function() {
+                            const text = $(this).text();
+                            const regex = new RegExp(`(${searchTerm})`, 'gi');
+                            const newText = text.replace(regex, '<mark>$1</mark>');
+                            $(this).html(newText);
+                        });
+                    });
+                }
+            });
+        });
+    </script>
+}
+
+<style>
+    mark {
+        background-color: #fff3cd;
+        padding: 2px 4px;
+        border-radius: 3px;
+        font-weight: 500;
+    }
+
+    [data-bs-theme="dark"] mark {
+        background-color: #664d03;
+        color: #ffecb5;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: rgba(0, 0, 0, 0.075);
+    }
+
+    [data-bs-theme="dark"] .table-hover tbody tr:hover {
+        background-color: rgba(255, 255, 255, 0.075);
+    }
+
+    .btn-group .btn {
+        padding: 0.25rem 0.5rem;
+        font-size: 0.875rem;
+    }
+</style>
