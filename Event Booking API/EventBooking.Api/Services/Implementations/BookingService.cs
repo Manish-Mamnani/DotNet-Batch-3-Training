@@ -96,5 +96,33 @@ namespace EventBooking.Api.Services.Implementations
 
             return true;
         }
+
+        public async Task<IEnumerable<BookingResponseDto>> GetAllBookingsAsync()
+        {
+            var bookings = await _context.Bookings.Include(b => b.Event).Include(b => b.User).ToListAsync();
+
+            return bookings.Select(b => new BookingResponseDto
+            {
+                Id = b.Id,
+                EventId = b.EventId,
+                SeatsBooked = b.SeatsBooked,
+                EventDate = b.Event.EventDate,
+                EventTitle = b.Event.Title
+            });
+        }
+
+        public async Task<IEnumerable<BookingResponseDto>> GetBookingsForEventAsync(int eventId)
+        {
+            var bookings = await _context.Bookings.Include(b => b.Event).Where(b => b.EventId == eventId).ToListAsync();
+
+            return bookings.Select(b => new BookingResponseDto
+            {
+                Id = b.Id,
+                EventId = b.EventId,
+                SeatsBooked = b.SeatsBooked,
+                EventDate = b.Event.EventDate,
+                EventTitle = b.Event.Title
+            });
+        }
     }
 }

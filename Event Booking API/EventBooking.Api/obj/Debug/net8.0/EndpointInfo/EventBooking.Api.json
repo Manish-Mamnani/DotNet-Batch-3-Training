@@ -133,6 +133,41 @@
         }
       }
     },
+    "/api/Booking/admin/all-bookings": {
+      "get": {
+        "tags": [
+          "Booking"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Booking/admin/event/{eventId}": {
+      "get": {
+        "tags": [
+          "Booking"
+        ],
+        "parameters": [
+          {
+            "name": "eventId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Event": {
       "get": {
         "tags": [
@@ -262,6 +297,9 @@
   "components": {
     "schemas": {
       "CreateBookingDto": {
+        "required": [
+          "eventId"
+        ],
         "type": "object",
         "properties": {
           "eventId": {
@@ -269,6 +307,8 @@
             "format": "int32"
           },
           "seats": {
+            "maximum": 10,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           }
@@ -276,25 +316,36 @@
         "additionalProperties": false
       },
       "CreateEventDto": {
+        "required": [
+          "description",
+          "eventDate",
+          "title"
+        ],
         "type": "object",
         "properties": {
           "title": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
           },
           "description": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 500,
+            "minLength": 0,
+            "type": "string"
           },
           "eventDate": {
             "type": "string",
             "format": "date-time"
           },
           "totalSeats": {
+            "maximum": 100000,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           },
           "price": {
+            "maximum": 1000000,
+            "minimum": 0,
             "type": "number",
             "format": "double"
           }
@@ -302,57 +353,80 @@
         "additionalProperties": false
       },
       "LoginRequestDto": {
+        "required": [
+          "email",
+          "password"
+        ],
         "type": "object",
         "properties": {
           "email": {
+            "minLength": 1,
             "type": "string",
-            "nullable": true
+            "format": "email"
           },
           "password": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "RegisterRequestDto": {
+        "required": [
+          "email",
+          "fullName",
+          "password"
+        ],
         "type": "object",
         "properties": {
           "fullName": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
           },
           "email": {
+            "minLength": 1,
             "type": "string",
-            "nullable": true
+            "format": "email"
           },
           "password": {
-            "type": "string",
-            "nullable": true
+            "minLength": 6,
+            "type": "string"
           }
         },
         "additionalProperties": false
       },
       "UpdateEventDto": {
+        "required": [
+          "description",
+          "eventDate",
+          "title"
+        ],
         "type": "object",
         "properties": {
           "title": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string"
           },
           "description": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 500,
+            "minLength": 0,
+            "type": "string"
           },
           "eventDate": {
             "type": "string",
             "format": "date-time"
           },
           "totalSeats": {
+            "maximum": 100000,
+            "minimum": 1,
             "type": "integer",
             "format": "int32"
           },
           "price": {
+            "maximum": 1000000,
+            "minimum": 0,
             "type": "number",
             "format": "double"
           }

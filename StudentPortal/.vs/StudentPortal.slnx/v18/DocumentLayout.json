@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Capgemini\\StudentPortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|d:\\capgemini\\studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|d:\\capgemini\\studentportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|d:\\capgemini\\studentportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|d:\\capgemini\\studentportal\\repositries\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|solutionrelative:repositries\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|d:\\capgemini\\studentportal\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|d:\\capgemini\\studentportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F303A34A-5FC6-5E2E-B028-906FF77ACDD7}|StudentPortal.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Capgemini\\StudentPortal\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:50:44.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Capgemini\\StudentPortal\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:47:22.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "Services\\StudentService.cs",
@@ -54,12 +88,11 @@
               "RelativeToolTip": "Services\\StudentService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:35:12.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T09:35:12.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Services\\IStudentService.cs",
               "RelativeDocumentMoniker": "Services\\IStudentService.cs",
@@ -67,25 +100,24 @@
               "RelativeToolTip": "Services\\IStudentService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIAzwAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:34:12.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T09:34:12.189Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Repositries\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Repositries\\StudentRepository.cs",
               "ToolTip": "D:\\Capgemini\\StudentPortal\\Repositries\\StudentRepository.cs",
               "RelativeToolTip": "Repositries\\StudentRepository.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T09:20:54.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Repositries\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "Repositries\\IStudentRepository.cs",
@@ -93,12 +125,11 @@
               "RelativeToolTip": "Repositries\\IStudentRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAD4vw4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:19:06.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T09:19:06.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -106,12 +137,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:11:39.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T09:11:39.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
@@ -123,19 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
               "ToolTip": "D:\\Capgemini\\StudentPortal\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwGEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T09:03:03.393Z"
+              "WhenOpened": "2026-03-02T09:03:03.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "StudentPortalDbContext.cs",
               "DocumentMoniker": "D:\\Capgemini\\StudentPortal\\Models\\StudentPortalDbContext.cs",
               "RelativeDocumentMoniker": "Models\\StudentPortalDbContext.cs",

@@ -65,6 +65,32 @@
   },
   {
     "ContainingType": "EventBooking.Api.Controllers.BookingController",
+    "Method": "GetAllBookings",
+    "RelativePath": "api/Booking/admin/all-bookings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventBooking.Api.Controllers.BookingController",
+    "Method": "GetBookingsForEvent",
+    "RelativePath": "api/Booking/admin/event/{eventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventBooking.Api.Controllers.BookingController",
     "Method": "GetMyBookings",
     "RelativePath": "api/Booking/my-bookings",
     "HttpMethod": "GET",

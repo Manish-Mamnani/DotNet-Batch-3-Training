@@ -1,7 +1,6 @@
-wwwroot\css\dark-theme.css
+wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
-wwwroot\js\theme-toggle.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -62,11 +61,11 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\css\site.css
-D:\Capgemini\StudentPortal\wwwroot\css\dark-theme.css
+wwwroot\js\theme-toggle.js
+wwwroot\css\dark-theme.css
+D:\Capgemini\StudentPortal\wwwroot\css\site.css
 D:\Capgemini\StudentPortal\wwwroot\favicon.ico
 D:\Capgemini\StudentPortal\wwwroot\js\site.js
-D:\Capgemini\StudentPortal\wwwroot\js\theme-toggle.js
 D:\Capgemini\StudentPortal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 D:\Capgemini\StudentPortal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 D:\Capgemini\StudentPortal\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -126,4 +125,5 @@ D:\Capgemini\StudentPortal\wwwroot\lib\jquery\dist\jquery.slim.js
 D:\Capgemini\StudentPortal\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\Capgemini\StudentPortal\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\Capgemini\StudentPortal\wwwroot\lib\jquery\LICENSE.txt
-D:\Capgemini\StudentPortal\wwwroot\css\site.css
+D:\Capgemini\StudentPortal\wwwroot\js\theme-toggle.js
+D:\Capgemini\StudentPortal\wwwroot\css\dark-theme.css

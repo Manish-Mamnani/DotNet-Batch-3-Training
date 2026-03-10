@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\implementations\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\implementations\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\implementations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\implementations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\event\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\event\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\event\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\event\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\event\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\event\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\booking\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\booking\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\event\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\event\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\event\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\event\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\implementations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\implementations\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\implementations\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\implementations\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\event\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\event\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\booking\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:dtos\\booking\\bookingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,48 +87,12 @@
       "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|d:\\capgemini\\event booking api\\eventbooking.api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6270C559-BA4C-0428-C328-0DC3DF11A82F}|EventBooking.Api.csproj|solutionrelative:services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,49 +102,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "BookingController.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Controllers\\BookingController.cs",
               "RelativeToolTip": "Controllers\\BookingController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvy8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwFUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T04:28:37.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "BookingService.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Services\\Implementations\\BookingService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\BookingService.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Services\\Implementations\\BookingService.cs",
               "RelativeToolTip": "Services\\Implementations\\BookingService.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAIwHMAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T04:24:30.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "IBookingService.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Services\\Interfaces\\IBookingService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IBookingService.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Services\\Interfaces\\IBookingService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IBookingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:23:51.584Z"
+              "WhenOpened": "2026-03-02T04:23:51.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "BookingResponseDto.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Booking\\BookingResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Booking\\BookingResponseDto.cs",
@@ -152,62 +153,61 @@
               "RelativeToolTip": "DTOs\\Booking\\BookingResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T04:22:32.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T04:22:32.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "CreateBookingDto.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Booking\\CreateBookingDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Booking\\CreateBookingDto.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Booking\\CreateBookingDto.cs",
               "RelativeToolTip": "DTOs\\Booking\\CreateBookingDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-02T04:21:56.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T23:05:06.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "EventController.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventController.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Controllers\\EventController.cs",
               "RelativeToolTip": "Controllers\\EventController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowCQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA9wCQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T22:10:46.667Z"
+              "WhenOpened": "2026-02-26T22:10:46.667Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
               "Title": "EventService.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Services\\Implementations\\EventService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\EventService.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Services\\Implementations\\EventService.cs",
               "RelativeToolTip": "Services\\Implementations\\EventService.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAowGMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA7wGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T21:34:14.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T21:34:14.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Event.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Models\\Event.cs",
               "RelativeDocumentMoniker": "Models\\Event.cs",
@@ -219,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 8,
               "Title": "IEventService.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Services\\Interfaces\\IEventService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IEventService.cs",
@@ -227,11 +227,12 @@
               "RelativeToolTip": "Services\\Interfaces\\IEventService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T04:30:48.092Z"
+              "WhenOpened": "2026-02-26T04:30:48.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "EventResponseDto.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Event\\EventResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Event\\EventResponseDto.cs",
@@ -239,8 +240,7 @@
               "RelativeToolTip": "DTOs\\Event\\EventResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T04:30:05.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T04:30:05.577Z"
             },
             {
               "$type": "Document",
@@ -250,27 +250,27 @@
               "RelativeDocumentMoniker": "DTOs\\Event\\UpdateEventDto.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Event\\UpdateEventDto.cs",
               "RelativeToolTip": "DTOs\\Event\\UpdateEventDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T04:29:01.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CreateEventDto.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Event\\CreateEventDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Event\\CreateEventDto.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Event\\CreateEventDto.cs",
               "RelativeToolTip": "DTOs\\Event\\CreateEventDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T04:28:14.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -282,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -290,11 +290,12 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T14:44:58.871Z"
+              "WhenOpened": "2026-02-24T14:44:58.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Services\\Implementations\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\AuthService.cs",
@@ -302,12 +303,11 @@
               "RelativeToolTip": "Services\\Implementations\\AuthService.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAUwGMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T14:34:23.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T14:34:23.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 9,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Services\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IAuthService.cs",
@@ -315,11 +315,12 @@
               "RelativeToolTip": "Services\\Interfaces\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T14:33:22.959Z"
+              "WhenOpened": "2026-02-24T14:33:22.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Auth\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\AuthResponseDto.cs",
@@ -327,38 +328,37 @@
               "RelativeToolTip": "DTOs\\Auth\\AuthResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T14:24:08.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T14:24:08.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "LoginRequestDto.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Auth\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\LoginRequestDto.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Auth\\LoginRequestDto.cs",
               "RelativeToolTip": "DTOs\\Auth\\LoginRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T14:23:53.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "RegisterRequestDto.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Auth\\RegisterRequestDto.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\RegisterRequestDto.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\DTOs\\Auth\\RegisterRequestDto.cs",
               "RelativeToolTip": "DTOs\\Auth\\RegisterRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T14:23:36.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Booking.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "Models\\Booking.cs",
@@ -366,12 +366,11 @@
               "RelativeToolTip": "Models\\Booking.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:36:56.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T13:36:56.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -383,15 +382,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Capgemini\\Event Booking API\\EventBooking.Api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T10:20:06.991Z"
+              "WhenOpened": "2026-02-24T10:20:06.991Z",
+              "EditorCaption": ""
             }
           ]
         }

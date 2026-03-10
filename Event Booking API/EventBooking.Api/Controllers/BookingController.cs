@@ -61,5 +61,41 @@ namespace EventBooking.Api.Controllers
                 return BadRequest(new { error = ex.Message });
             }
         }
+
+        [Authorize(Roles = "Admin")]
+        [HttpGet("admin/all-bookings")]
+        public async Task<IActionResult> GetAllBookings()
+        {
+            try
+            {
+                var bookings = await _bookingService.GetAllBookingsAsync();
+                return Ok(bookings);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { error = ex.Message });
+            }
+        }
+
+        [Authorize(Roles = "Admin")]
+        [HttpGet("admin/event/{eventId}")]
+        public async Task<IActionResult> GetBookingsForEvent(int eventId)
+        {
+            try
+            {
+                var bookings = await _bookingService.GetBookingsForEventAsync(eventId);
+
+                if (!bookings.Any())
+                {
+                    return NotFound(new { message = "No bookings found for this event." });
+                }
+
+                return Ok(bookings);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { error = ex.Message });
+            }
+        }
     }
 }
