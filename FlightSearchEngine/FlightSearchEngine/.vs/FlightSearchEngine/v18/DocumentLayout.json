@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\1 Capgemini Training Program\\WebApplications\\FlightSearchEngine\\",
+  "WorkspaceRootPath": "D:\\Capgemini\\FlightSearchEngine\\FlightSearchEngine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A244851F-7CD8-B6D5-62C9-4920A8701B31}|FlightSearchEngine.csproj|e:\\1 capgemini training program\\webapplications\\flightsearchengine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A244851F-7CD8-B6D5-62C9-4920A8701B31}|FlightSearchEngine.csproj|d:\\capgemini\\flightsearchengine\\flightsearchengine\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A244851F-7CD8-B6D5-62C9-4920A8701B31}|FlightSearchEngine.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -20,24 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\1 Capgemini Training Program\\WebApplications\\FlightSearchEngine\\appsettings.json",
+              "DocumentMoniker": "D:\\Capgemini\\FlightSearchEngine\\FlightSearchEngine\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\1 Capgemini Training Program\\WebApplications\\FlightSearchEngine\\appsettings.json",
+              "ToolTip": "D:\\Capgemini\\FlightSearchEngine\\FlightSearchEngine\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-28T10:36:11.526Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
